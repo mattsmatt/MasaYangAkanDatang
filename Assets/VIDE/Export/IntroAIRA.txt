@@ -1,0 +1,354 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: IntroAIRA
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Sinar terbangun di ruangan yang asing, jika dideskripsikan, ruangan ini terlihat sangat futuristic
+#COMMENT#
+seperti pada film Sci-fi. 
+#COMMENT#
+Ia duduk perlahan, bingung dengan apa yang terjadi
+---------------------------------
+#NODEID#
+1
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Gue... dimana? Apa yang terjadi? 
+---------------------------------
+#NODEID#
+2
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Seorang pria muda dan seorang gadis masuk ke dalam ruangan tersebut
+---------------------------------
+#NODEID#
+3
+#TAG#
+???
+#ISPLAYER#
+False
+---
+#COMMENT#
+Akhirnya kamu terbangun juga, jadi kamu orang yang datang dengan mesin waktu itu
+---------------------------------
+#NODEID#
+4
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Anda siapa? aku dimana? mesin waktu? Aku hanya menyentuh benda itu dan tiba-tiba...
+---------------------------------
+#NODEID#
+5
+#TAG#
+Beben
+#ISPLAYER#
+False
+---
+#COMMENT#
+oh maaf, sepertinya saya lupa memperkenalkan diri. Salam kenal, saya Beben, Kepala riset di Laboratorium AIRA
+#COMMENT#
+Tim saya menemukanmu pingsan dengan mesin waktu ini di depan laboratorium ini
+#COMMENT#
+Jadi kami memutuskan untuk membawa kamu dan mesin itu ke dalam untuk di teliti
+#COMMENT#
+berdasarkan pakaian dan mesin waktu itu, saya asumsikan kamu datang dari masa lampau
+---------------------------------
+#NODEID#
+6
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Uhh saya berasala dari bumi Tahun 2014. Apakah ini bumi di masa depan?
+---------------------------------
+#NODEID#
+7
+#TAG#
+Beben
+#ISPLAYER#
+False
+---
+#COMMENT#
+Benar sekali, selamat datang di bumi tahun 2148
+#COMMENT#
+Baiklah, Alicia, temani dia. Saya akan mempelajari mesin waktu itu lebih lanjut
+---------------------------------
+#NODEID#
+8
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baik pak
+#COMMENT#
+Kamu pasti punya banyak pertanyaan untuk aku kan
+---------------------------------
+#NODEID#
+9
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Beben pun pergi meninggalkan Sinar dan Alicia untuk melanjutkan penelitiannya pada mesin waktu
+---------------------------------
+#NODEID#
+10
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Maaf ya soal Pak Beben. Dia memang seperti itu, selalu fokus pada teknologi baru
+#COMMENT#
+Oh ya, nama kamu siapa?
+---------------------------------
+#NODEID#
+11
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Nama gue Sinar, Jadi, ini benar-benar masa depan?
+---------------------------------
+#NODEID#
+12
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+SInar hmm... nama yang bagus...
+#COMMENT#
+Benar sekali! Selamat datang di tahun 2148. Ini adalah AIRA Labs, pusat penelitian AI terbesar di dunia
+---------------------------------
+#NODEID#
+13
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+AI ?
+---------------------------------
+#NODEID#
+14
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh maafkan aku, mungkin AI masih belum terlalu familiar di masamu
+#COMMENT#
+Baiklah ayo kita berkeliling lab, aku akan menjelaskan tentang AI sembari kita jalan
+---------------------------------
+#NODEID#
+15
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jadi, AI itu robot yang bisa berpikir sendiri?
+---------------------------------
+#NODEID#
+16
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hmm... kurang tepat. AI atau kecerdasan buatan itu adalah sistem yang dibuat untuk meniru cara manusia memecahkan masalah
+#COMMENT#
+Tapi, mereka tidak benar-benar 'berpikir', melainkan mereka hanya mengikuti data dan algoritma
+---------------------------------
+#NODEID#
+17
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Algoritma? jadi hanya program biasa?
+---------------------------------
+#NODEID#
+18
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Sedikit berbeda. Program biasa itu seperti "Jika ada gerakan, maka nyalakan lampu". Dan contoh program itu bukan AI, melainkan hanya logika dasar
+---------------------------------
+#NODEID#
+19
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Lalu apa dong yang membuat AI berbeda?
+---------------------------------
+#NODEID#
+20
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Nah, keunggulan AI itu adalah dia bisa belajar dari data
+#COMMENT#
+Misalnya, jika AI diberi banyak data dan disuruh untuk memilih rute yang tercepat, maka ia akan belajar untuk memilih jalan terbaik
+#COMMENT#
+bahkan ia dapat melakukannya tanpa diberi perintah secara lansung. Itu yang membuatnya pintar
+---------------------------------
+#NODEID#
+21
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jadi AI itu seperti aplikasi Google Maps?
+---------------------------------
+#NODEID#
+22
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Contoh yang bagus! di jaman modern ini, AI sudah digunakan untuk mencari rute tercepat berdasarkan data lalu lintas waktu nyata
+#COMMENT#
+Tanpa bantuan AI, GPS hanya akan menunjukkan rute tetap tanpa mempertimbangkan apakah ada kecelakaan atau apa yang terjadi di jalan.
+---------------------------------
+#NODEID#
+23
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Sinar menangguk dan mulai memahami konsepnya
+---------------------------------
+#NODEID#
+24
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh iya, apakah kamu mau bermain game?
+---------------------------------
+#NODEID#
+25
+#TAG#
+Sinar
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mau dong!
+#COMMENT#
+Ngga Mau
+---------------------------------
+#NODEID#
+26
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Yay, kamu lihat panel itu, coba kamu pencet, panel itu akan menampilkan puzzle yang menyuruhmu untuk menghubungkan semua titik menggunakan satu gerakan
+---------------------------------
+#NODEID#
+27
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Karena kamu sudah disini, ayuk coba game dari masa depan!
+---------------------------------
+#NODEID#
+29
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Aku berhasil!! Puzzle ini lumayan seru juga
+---------------------------------
+#NODEID#
+30
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hehe
+---------------------------------
+#NODEID#
+31
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baik pak
+#COMMENT#
+Halo, perkenalkan aku Alicia, asisten Pak Beben yang akan menemanimu
+#COMMENT#
+Kamu pasti punya banyak pertanyaan untuk aku kan
+---------------------------------
+#END#

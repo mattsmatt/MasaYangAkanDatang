@@ -1,0 +1,244 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: Mira
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Menanyai Kabar
+---------------------------------
+#NODEID#
+1
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh, maaf, saya terlalu fokus. Saya Dr. Mira
+#COMMENT#
+Jadi saya menemukan masalah pada sistem kami yang menyebabkan data operasi pasien menjadi kacau
+---------------------------------
+#NODEID#
+2
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Data operasi?
+---------------------------------
+#NODEID#
+3
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Kita biasanya menggunakan AI untuk membantu merencanakan operasi dengan melakukan simulasi operasi.
+#COMMENT#
+Kemudian dari simulasi terbaik, kita memetakan langkah-langkah berdasarkan data pasien
+#COMMENT#
+Namun, sistem ini sedang mengalami kesalahan dan langkah itu terpecah menjadi potongan tidak beraturan
+#COMMENT#
+Jika tidak segera diperbaikin maka akan memperlambat persiapan operasi
+---------------------------------
+#NODEID#
+4
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Memanggil Miduser
+---------------------------------
+#NODEID#
+5
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Aku bisa membantu, aku dapat mengubah langkah langkah teracak ini menjadi seperti puzzle geser
+---------------------------------
+#NODEID#
+6
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Saya akan membantu
+---------------------------------
+#NODEID#
+7
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Benarkah? Kalau begitu mari kita coba
+#COMMENT#
+Kita harus segera menyusun langkah - langkah itu
+---------------------------------
+#NODEID#
+8
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+baiklah, kamu harus menyusun langkah-langkah ini menjadi urutan yang benar sinar
+#COMMENT#
+Memulai Visualisasi
+---------------------------------
+#NODEID#
+11
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Terima kasih banyak Alicia
+#COMMENT#
+dan juga Miduser, kalian sangat membantu
+---------------------------------
+#NODEID#
+12
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+AI di medis?
+---------------------------------
+#NODEID#
+13
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jadi AI itu digunakan untuk menganalisis data seperti CT scan riwayat kesehatan pasien, dan kondisi saat ini
+#COMMENT#
+Tapi pengawasan manusia juga diperlukan untuk memastikan semuanya berjalan dengan lancar
+---------------------------------
+#NODEID#
+14
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Apakah aman?
+---------------------------------
+#NODEID#
+15
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Pertanyaan yang bagus, dalam operasi, AI digunakan untuk meningkatkan akurasi. Contohnya seperti memandu alat bedah ke lokasi yang tepat
+#COMMENT#
+Tapi tetap saja, semua keputusan dan tanggung jawab ada di tangan dokter
+---------------------------------
+#NODEID#
+16
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Benar sekali, jadi AI itu lebih seperti alat bantu yang membuat operasi menjadi lebih aman dan tepat
+#COMMENT#
+namun kita perlu memastikan AI tersebut dilatih dengan data yang baik untuk bekerja dengan optimal
+---------------------------------
+#NODEID#
+17
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mengangguk
+---------------------------------
+#NODEID#
+18
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jika kamu ingin kembali untuk menyusun langkah-langkah itu jangan sungkan ya
+#COMMENT#
+Karena kita masih perlu untuk menyusun Arsip rumah sakit
+---------------------------------
+#NODEID#
+20
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Halo Sinar, Apakah kamu ingin membantu menyusun arsip rumah sakit?
+---------------------------------
+#NODEID#
+21
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ya
+#COMMENT#
+Tidak
+---------------------------------
+#NODEID#
+22
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah, ini data arsip yang perlu disusun
+---------------------------------
+#NODEID#
+23
+#TAG#
+Dr. Mira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah, jangan lupa untuk menjaga kesehatanmu dan sampai jumpa
+---------------------------------
+#END#

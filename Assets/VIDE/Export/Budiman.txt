@@ -1,0 +1,372 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: Budiman
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Permisi
+---------------------------------
+#NODEID#
+1
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Burger Budiman disni, apakah kamu mau membeli burger?
+---------------------------------
+#NODEID#
+2
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mau	
+#COMMENT#
+Tentang Komponen
+---------------------------------
+#NODEID#
+3
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ini Burger Specialnya, terima kasih dan datang kembali!
+---------------------------------
+#NODEID#
+4
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh kamu diberitahu oleh Faqih ya,   kalau dia yang merekomendasikan, saya pasti akan bantu, tapi hmm...
+---------------------------------
+#NODEID#
+5
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Saya memang menjual komponen antik, tapi satelit itu sangat langka sekali...
+#COMMENT#
+mmm... Bagaimana kalau kamu membantu bisnis saya, jika kamu bersedia saya berikan satelit itu kepadamu
+---------------------------------
+#NODEID#
+6
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Setuju
+#COMMENT#
+Tidak Setuju
+---------------------------------
+#NODEID#
+7
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah, Jika kamu  merubah pikiranmu, silahkan datang kembali kesini!
+---------------------------------
+#NODEID#
+8
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jadi bisnis burger saya sedang lesu. Banyak pelanggan yang bilang burger saya rasanya hambar
+#COMMENT#
+Saya ingin sekali untuk membuat burger special yang sangat enak dan memuaskan pelanggan saya
+#COMMENT#
+Saya ingin sekali untuk melihat senyum anak-anak ketika menyantap burger... seperti adik saya...
+#COMMENT#
+ah, jadi saya butuh referensi burger pesaing. Jika kamu bisa membawakan 3 Burger yang berbeda di Gaguna, saya akan memberikan satelit itu kepadamu
+---------------------------------
+#NODEID#
+10
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Saya akan segera kembali
+---------------------------------
+#NODEID#
+12
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tolong Bawakan 3 Burger berbeda dari kota Gaguna
+#COMMENT#
+Jika kamu bisa melakukan itu, saya akan berikan satelitnya
+---------------------------------
+#NODEID#
+13
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Saya akan segera kembali
+---------------------------------
+#NODEID#
+14
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Serahkan Burger
+---------------------------------
+#NODEID#
+15
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Wah terima kasih banyak, Sinar. Aku akan mencicipinya dan mempelajari apa yang membuat burger mereka begitu populer
+#COMMENT#
+Apakah kamu mau mencobanya juga?
+---------------------------------
+#NODEID#
+16
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mau
+#COMMENT#
+Buat kamu saja
+---------------------------------
+#NODEID#
+17
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mmm... burger ini enak sekali. Pattynya sangat smoky
+#COMMENT#
+Dan burger ini, memiliki rasa umami yang senada dengan saus lainnya
+#COMMENT#
+Oooh, kombinasi burger dan rendang sangatlah enak!
+---------------------------------
+#NODEID#
+18
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Kamu akan meniru?
+---------------------------------
+#NODEID#
+19
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tidak tidak, tapi saya akan mempelajari dan mengadaptasi. 
+#COMMENT#
+Aku ingin tahu apa yang mereka lakukan dengan benar dan menggabungkannya dengan gaya unikku
+---------------------------------
+#NODEID#
+20
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Seperti AI...
+---------------------------------
+#NODEID#
+21
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+TEPAT SEKALI SINAR
+---------------------------------
+#NODEID#
+22
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+askdhfasdkfasd
+#COMMENT#
+Terkejut
+---------------------------------
+#NODEID#
+23
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Whoops ( U w U )
+#COMMENT#
+Oh ya, jadi AI itu emang bekerja seperti itu. Mereka belajar dari data yang ada, menganalisa pola, dan menggunakannya untuk menciptakan sesuatu yang baru
+#COMMENT#
+Konsep ini mirip dengan AI Art yang menjadi kontroversial belakangan ini
+#COMMENT#
+AI Art itu mempelajari karya karya pelukis  sebelumnya untuk menghasilkan karya baru
+#COMMENT#
+Beberapa orang merasa AI Art ini hanya meniru tanpa menciptakan sesuatu yang benar-benar  orisinal
+---------------------------------
+#NODEID#
+24
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+jadi, bagaimana AI seharusnya digunakan?
+---------------------------------
+#NODEID#
+25
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ai sebaiknya digunakan sebagai alat bantu
+#COMMENT#
+Seperti anda, Pak Budiman yang belajar dari burger lain, tetapi tetap menciptakan sesuatu yang berbeda dan unik
+#COMMENT#
+Inovasi adalah kunci agar hasilnya diterima dengan baik oleh orang
+---------------------------------
+#NODEID#
+26
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jika AI mempelajari dan meniru karya pelukis lain
+#COMMENT#
+Apa yang bisa dilakukan supaya pelukis yang merasa karyanya dicuri tidak merasa dirugikan oleh AI
+---------------------------------
+#NODEID#
+27
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Menurutku transparansi. AI itu bisa dibuat untuk selalu memberikan kredit kepada sumber data.
+#COMMENT#
+Aturan juga harus dibuat untuk mengatur bagaimana data digunakan untuk melatih AI
+#COMMENT#
+Misalnya pelukis bisa memilih apakah karyanya boleh digunakan untuk pelatihan AI atau tidak
+---------------------------------
+#NODEID#
+28
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mengangguk
+---------------------------------
+#NODEID#
+29
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tunggu sebentar, aku akan ambil komponennya untukmu
+#COMMENT#
+Ini satelit yang kamu cari. Semoga berguna untuk misi kamu
+#COMMENT#
+Dan juga saya mencoba untuk membuat burger spesial saya, ini gratis untuk kamu
+---------------------------------
+#NODEID#
+30
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Terima kasih
+#COMMENT#
+Burgernya sangat enak
+---------------------------------
+#NODEID#
+31
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Saya senang mendengarnya
+---------------------------------
+#NODEID#
+35
+#TAG#
+Budiman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Halo Sinar, ini Burgerdiman Special untukmu sebagai terima kasih
+#COMMENT#
+Semangat ya dalam mencari komponen lainnya
+---------------------------------
+#END#

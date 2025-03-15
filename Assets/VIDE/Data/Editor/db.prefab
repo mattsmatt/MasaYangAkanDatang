@@ -1,0 +1,2204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &146666
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 499132}
+  - component: {fileID: 11416270}
+  m_Layer: 0
+  m_Name: db
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &499132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146666}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11416270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268dc70b105993846a123be43345df63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fileIndex: 14
+  skinIndex: 4
+  loadTag: 
+  startID: 0
+  curFocusID: 0
+  currentID: 9261
+  autosave: 1
+  previewPanning: 0
+  currentDiag: 14
+  locEdit: 0
+  pNodeID: 11
+  aNodeID: 21
+  S_playerDiags:
+  - commentCount: 2
+    s_comment:
+    - text: mari kita mulai simulasi combatnya
+      extraData: ExtraData
+      inputSetIndex: 0
+      outputNodeIndex: -1
+      outActionIndex: 0
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 32
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Kamu harus mengalahkan lawan dengan melakukan attack, skill ataupun potion
+      extraData: ExtraData
+      inputSetIndex: 0
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 0
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 130
+      width: 348
+      height: 182
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Pertempuran yang bagus!
+      extraData: ExtraData
+      inputSetIndex: 1
+      outputNodeIndex: 2
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 4
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 160
+      width: 348
+      height: 125
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: Jika kamu sudah mendapatkan komponen mesin waktu lainnya silahkan mampir
+        lagi
+      extraData: ExtraData
+      inputSetIndex: 2
+      outputNodeIndex: -1
+      outActionIndex: 7
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 46
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Aku akan menyiapkan lebih banyak level baru
+      extraData: ExtraData
+      inputSetIndex: 2
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Silahkan berbicara dengan Alicia di ruang tamu untuk detail lokasi komponennya
+      extraData: ExtraData
+      inputSetIndex: 2
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 5
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 330
+      width: 348
+      height: 229.33333
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: Kabar bagus Sinar ( > u < )
+      extraData: ExtraData
+      inputSetIndex: 3
+      outputNodeIndex: -1
+      outActionIndex: 9
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Software mesin waktunya sudah berhasil diperbaikin
+      extraData: ExtraData
+      inputSetIndex: 3
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Silahkan mencari Pak Beben di ruangannya
+      extraData: ExtraData
+      inputSetIndex: 3
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 15
+    rect:
+      serializedVersion: 2
+      x: 2470
+      y: 160
+      width: 348
+      height: 190.33333
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Kamu sudah menyelesaikan level integrasi ini
+      extraData: ExtraData
+      inputSetIndex: 4
+      outputNodeIndex: 5
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 32
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 16
+    rect:
+      serializedVersion: 2
+      x: 590
+      y: -430
+      width: 348
+      height: 134.66666
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Silahkan cari komponen lainnya untuk membuka level baru
+      extraData: ExtraData
+      inputSetIndex: 5
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 17
+    rect:
+      serializedVersion: 2
+      x: 560
+      y: -150
+      width: 348
+      height: 134.66666
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: Selamat datang Sinar ( o w o )
+      extraData: ExtraData
+      inputSetIndex: 6
+      outputNodeIndex: -1
+      outActionIndex: 5
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Kita telah menyelesaikan 33% progress menggabungkan komponen ini
+      extraData: ExtraData
+      inputSetIndex: 6
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Mari kita perbaiki mesin waktu ini bersama
+      extraData: ExtraData
+      inputSetIndex: 6
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 11
+    rect:
+      serializedVersion: 2
+      x: 1600
+      y: 160
+      width: 348
+      height: 205
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: Hai Sinar ( n w n )
+      extraData: ExtraData
+      inputSetIndex: 7
+      outputNodeIndex: -1
+      outActionIndex: 6
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Kita telah menyelesaikan 66% progress menggabungkan komponen ini
+      extraData: ExtraData
+      inputSetIndex: 7
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Mari kita perbaiki mesin waktu ini bersama
+      extraData: ExtraData
+      inputSetIndex: 7
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 13
+    rect:
+      serializedVersion: 2
+      x: 2040
+      y: 180
+      width: 348
+      height: 205
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Mari kita perbaiki mesin waktu itu bersama
+      extraData: ExtraData
+      inputSetIndex: 8
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 7
+    rect:
+      serializedVersion: 2
+      x: 1180
+      y: 90
+      width: 348
+      height: 134.66666
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 5
+    s_comment:
+    - text: Berikut merupakan deskripsi dari skill yang sudah aku buat di simulasi
+        gamenya
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Pulse Shield : Memberikan serangan elektromagnetik kepada lawan sambil
+        melindungi dirimu'
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Bad Prompt : Memberikan perintah AI yang memberikan dan meningkatkan
+        damage yang kita beri'
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Garbage Data : "Sampah masuk, sampah keluar," serangan musuh menjadi
+        lebih lemah.'
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Model Exploit : Mengungkap celah dalam algoritma musuh untuk melemahkan
+        pertahanan mereka'
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 25
+    rect:
+      serializedVersion: 2
+      x: 1940
+      y: -860
+      width: 348
+      height: 382.66666
+    pTag: Miduser
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Beep Selamat Datang
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: 11
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 26
+    rect:
+      serializedVersion: 2
+      x: 1180
+      y: -360
+      width: 348
+      height: 125
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 2
+    s_comment:
+    - text: Melakukan Integrasi
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: 8
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Tentang Skills
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: 9
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 84
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 27
+    rect:
+      serializedVersion: 2
+      x: 1190
+      y: -150
+      width: 348
+      height: 148
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 1
+    s_comment:
+    - text: Selamat datang Sinar ( o w o )
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: 13
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 28
+    rect:
+      serializedVersion: 2
+      x: 1630
+      y: -360
+      width: 348
+      height: 125
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 2
+    s_comment:
+    - text: Melakukan Integrasi
+      extraData: ExtraData
+      inputSetIndex: 13
+      outputNodeIndex: 6
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Tentang Skills
+      extraData: ExtraData
+      inputSetIndex: 13
+      outputNodeIndex: 9
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 84
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 29
+    rect:
+      serializedVersion: 2
+      x: 1630
+      y: -90
+      width: 348
+      height: 148
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 1
+    s_comment:
+    - text: Hai Sinar ( n w n )
+      extraData: ExtraData
+      inputSetIndex: 14
+      outputNodeIndex: 15
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 30
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: -360
+      width: 348
+      height: 125
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 2
+    s_comment:
+    - text: Melakukan Integrasi
+      extraData: ExtraData
+      inputSetIndex: 15
+      outputNodeIndex: 7
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 61
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Tentang Skills
+      extraData: ExtraData
+      inputSetIndex: 15
+      outputNodeIndex: 9
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 84
+        width: 30
+        height: 22
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 31
+    rect:
+      serializedVersion: 2
+      x: 2070
+      y: -120
+      width: 348
+      height: 148
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  S_actionNodes:
+  - pauseHere: 0
+    gameObjectName: miduser_interactrange
+    methodName: UpdateDialogueProgress
+    nameIndex: 38
+    methodIndex: 9
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - GetAssigned
+    - AssignNew
+    - SaveState
+    - LoadState
+    - OnBeforeSerialize
+    - OnAfterDeserialize
+    - LoadNPCProgress
+    - SaveNPCProgress
+    - UpdateDialogueProgress
+    - SetPlayerChoice
+    - OnInteractButtonPressed
+    - AccessPuzzle
+    - AccessCutscene
+    nameOpts:
+    - '[No object]'
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - f_aira_ (1)
+    - questmanager
+    - inventorymanager
+    - secondary
+    - secondary
+    - f_aira_
+    - secondary
+    - m_aira (1)
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - FastSpringBone Service
+    - SaveManager
+    - AudioManager
+    - changemap
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - beben_interactrange
+    - Menu_UI
+    - Text (TMP)
+    param_bool: 0
+    param_string: 
+    param_int: 4
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 360
+      y: 360
+      width: 200
+      height: 186
+    ID: 1
+    outPlayerIndex: -1
+    outActionIndex: 1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: questmanager
+    methodName: CompleteInteractQuest
+    nameIndex: 2
+    methodIndex: 4
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - CheckQuestProgress
+    - LoadQuests
+    - SaveQuests
+    - CompleteInteractQuest
+    - GetQuestById
+    - OpenQuestMenu
+    - CloseQuestMenu
+    - CreateQuestDisplay
+    - GiveQuest
+    nameOpts:
+    - '[No object]'
+    - navigate minigame
+    - questmanager
+    - inventorymanager
+    - secondary
+    - f_aira_
+    - secondary
+    - m_aira (1)
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - f_aira_ (1)
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - init
+    - secondary
+    - m_aira
+    - art_1
+    - miduser camera (1)
+    - miduser camera
+    - Virtual Camera (1)
+    - sinar camera
+    - Virtual Camera (4)
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - cm
+    - MainCamera
+    - alicia camera
+    - sinar camera (1)
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - alicia camera (1)
+    - Virtual Camera (5)
+    - miduser cutscene manager
+    - Sinarv2.1
+    - Virtual Camera
+    - Virtual Camera (3)
+    - Virtual Camera (6)
+    - art_1 (2)
+    - teleporter_interactrange
+    - Virtual Camera (2)
+    - Virtual Camera (7)
+    - beben camera
+    - art_1 (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 3
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 360
+      y: 590
+      width: 200
+      height: 186
+    ID: 2
+    outPlayerIndex: -1
+    outActionIndex: 8
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: navigate minigame
+    methodName: GoToCombatWorld1
+    nameIndex: 1
+    methodIndex: 4
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - GoToFill
+    - GoToOneStroke
+    - GoToPipes
+    - GoToCombatWorld1
+    - GoToCombatWorld2
+    - GoToCombatWorld3
+    - GoToMenu
+    - GoToSlidingTile
+    - GoToMap
+    nameOpts:
+    - '[No object]'
+    - navigate minigame
+    - questmanager
+    - inventorymanager
+    - secondary
+    - f_aira_
+    - secondary
+    - m_aira (1)
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - f_aira_ (1)
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - init
+    - secondary
+    - m_aira
+    - art_1
+    - miduser camera (1)
+    - miduser camera
+    - Virtual Camera (1)
+    - sinar camera
+    - Virtual Camera (4)
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - cm
+    - MainCamera
+    - alicia camera
+    - sinar camera (1)
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - alicia camera (1)
+    - Virtual Camera (5)
+    - miduser cutscene manager
+    - Sinarv2.1
+    - Virtual Camera
+    - Virtual Camera (3)
+    - Virtual Camera (6)
+    - art_1 (2)
+    - teleporter_interactrange
+    - Virtual Camera (2)
+    - Virtual Camera (7)
+    - beben camera
+    - art_1 (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 1
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 1260
+      y: 320
+      width: 200
+      height: 166
+    ID: 8
+    outPlayerIndex: -1
+    outActionIndex: 12
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: questmanager
+    methodName: GiveQuest
+    nameIndex: 35
+    methodIndex: 9
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - CheckQuestProgress
+    - LoadQuests
+    - SaveQuests
+    - CompleteInteractQuest
+    - GetQuestById
+    - OpenQuestMenu
+    - CloseQuestMenu
+    - CreateQuestDisplay
+    - GiveQuest
+    nameOpts:
+    - '[No object]'
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - m_aira
+    - init
+    - secondary
+    - f_aira_
+    - secondary
+    - m_aira (1)
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - cm
+    - PlayerFollowCamera
+    - secondary
+    - f_aira_ (1)
+    - questmanager
+    - inventorymanager
+    - art_1
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - MainCamera
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - art_1 (2)
+    - teleporter_interactrange
+    - navigate minigame
+    - art_1 (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 4
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 810
+      y: 850
+      width: 200
+      height: 186
+    ID: 9
+    outPlayerIndex: -1
+    outActionIndex: 4
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: Alicia_interactrange
+    methodName: UpdateDialogueProgress
+    nameIndex: 40
+    methodIndex: 9
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - GetAssigned
+    - AssignNew
+    - SaveState
+    - LoadState
+    - OnBeforeSerialize
+    - OnAfterDeserialize
+    - LoadNPCProgress
+    - SaveNPCProgress
+    - UpdateDialogueProgress
+    - SetPlayerChoice
+    - OnInteractButtonPressed
+    - AccessPuzzle
+    - AccessCutscene
+    nameOpts:
+    - '[No object]'
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - m_aira
+    - init
+    - secondary
+    - f_aira_
+    - secondary
+    - m_aira (1)
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - cm
+    - PlayerFollowCamera
+    - secondary
+    - f_aira_ (1)
+    - questmanager
+    - inventorymanager
+    - art_1
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - MainCamera
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - art_1 (2)
+    - teleporter_interactrange
+    - navigate minigame
+    - art_1 (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 22
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 810
+      y: 1080
+      width: 200
+      height: 186
+    ID: 10
+    outPlayerIndex: -1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: navigate minigame
+    methodName: GoToCombatWorld2
+    nameIndex: 45
+    methodIndex: 5
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - GoToFill
+    - GoToOneStroke
+    - GoToPipes
+    - GoToCombatWorld1
+    - GoToCombatWorld2
+    - GoToCombatWorld3
+    - GoToMenu
+    - GoToSlidingTile
+    - GoToMap
+    nameOpts:
+    - '[No object]'
+    - secondary
+    - f_aira_ (1)
+    - questmanager
+    - inventorymanager
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - f_aira_
+    - secondary
+    - secondary
+    - m_aira
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - m_aira (1)
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - teleporter_interactrange
+    - navigate minigame
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 1680
+      y: 440
+      width: 200
+      height: 166
+    ID: 12
+    outPlayerIndex: -1
+    outActionIndex: 13
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: navigate minigame
+    methodName: GoToCombatWorld3
+    nameIndex: 45
+    methodIndex: 6
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - GoToFill
+    - GoToOneStroke
+    - GoToPipes
+    - GoToCombatWorld1
+    - GoToCombatWorld2
+    - GoToCombatWorld3
+    - GoToMenu
+    - GoToSlidingTile
+    - GoToMap
+    nameOpts:
+    - '[No object]'
+    - secondary
+    - f_aira_ (1)
+    - questmanager
+    - inventorymanager
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - f_aira_
+    - secondary
+    - secondary
+    - m_aira
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - m_aira (1)
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - teleporter_interactrange
+    - navigate minigame
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 2100
+      y: 450
+      width: 200
+      height: 166
+    ID: 14
+    outPlayerIndex: -1
+    outActionIndex: 14
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: miduser_interactrange
+    methodName: UpdateDialogueProgress
+    nameIndex: 37
+    methodIndex: 9
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - GetAssigned
+    - AssignNew
+    - SaveState
+    - LoadState
+    - OnBeforeSerialize
+    - OnAfterDeserialize
+    - LoadNPCProgress
+    - SaveNPCProgress
+    - UpdateDialogueProgress
+    - SetPlayerChoice
+    - OnInteractButtonPressed
+    - AccessPuzzle
+    - AccessCutscene
+    nameOpts:
+    - '[No object]'
+    - secondary
+    - f_aira_ (1)
+    - cm
+    - PlayerFollowCamera
+    - secondary
+    - m_aira
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - f_aira_
+    - secondary
+    - secondary
+    - m_aira (1)
+    - questmanager
+    - inventorymanager
+    - changemap
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 16
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 810
+      y: 610
+      width: 200
+      height: 186
+    ID: 6
+    outPlayerIndex: -1
+    outActionIndex: 3
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: navigate minigame
+    methodName: GoToCombatWorld1
+    nameIndex: 48
+    methodIndex: 4
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - GoToFill
+    - GoToOneStroke
+    - GoToPipes
+    - GoToCombatWorld1
+    - GoToCombatWorld2
+    - GoToCombatWorld3
+    - GoToMenu
+    - GoToSlidingTile
+    - GoToMap
+    nameOpts:
+    - '[No object]'
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - f_aira_ (1)
+    - questmanager
+    - inventorymanager
+    - secondary
+    - secondary
+    - f_aira_
+    - secondary
+    - m_aira (1)
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - FastSpringBone Service
+    - SaveManager
+    - AudioManager
+    - changemap
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - beben_interactrange
+    - Menu_UI
+    - Text (TMP)
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 360
+      y: 830
+      width: 200
+      height: 166
+    ID: 3
+    outPlayerIndex: -1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: changemap
+    methodName: ChangeMap
+    nameIndex: 32
+    methodIndex: 1
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - ChangeMap
+    nameOpts:
+    - '[No object]'
+    - questmanager
+    - inventorymanager
+    - secondary
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - changemap
+    - f_aira_
+    - m_aira
+    - Virtual Camera (1)
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - m_aira (1)
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - Virtual Camera
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - f_aira_ (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 2550
+      y: 400
+      width: 200
+      height: 166
+    ID: 21
+    outPlayerIndex: -1
+    outActionIndex: 10
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: beben_interactrange
+    methodName: UpdateDialogueProgress
+    nameIndex: 50
+    methodIndex: 10
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - GetAssigned
+    - AssignNew
+    - SaveState
+    - LoadState
+    - OnBeforeSerialize
+    - OnAfterDeserialize
+    - CheckNPCProgress
+    - LoadNPCProgress
+    - SaveNPCProgress
+    - UpdateDialogueProgress
+    - SetPlayerChoice
+    - OnInteractButtonPressed
+    - AccessPuzzle
+    - AccessCutscene
+    nameOpts:
+    - '[No object]'
+    - questmanager
+    - inventorymanager
+    - secondary
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - changemap
+    - f_aira_
+    - m_aira
+    - Virtual Camera (1)
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - m_aira (1)
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - Virtual Camera
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - f_aira_ (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 2
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 2550
+      y: 600
+      width: 200
+      height: 186
+    ID: 22
+    outPlayerIndex: -1
+    outActionIndex: 11
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: Alicia_interactrange
+    methodName: UpdateDialogueProgress
+    nameIndex: 38
+    methodIndex: 10
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - GetAssigned
+    - AssignNew
+    - SaveState
+    - LoadState
+    - OnBeforeSerialize
+    - OnAfterDeserialize
+    - CheckNPCProgress
+    - LoadNPCProgress
+    - SaveNPCProgress
+    - UpdateDialogueProgress
+    - SetPlayerChoice
+    - OnInteractButtonPressed
+    - AccessPuzzle
+    - AccessCutscene
+    nameOpts:
+    - '[No object]'
+    - questmanager
+    - inventorymanager
+    - secondary
+    - cm
+    - PlayerFollowCamera
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - changemap
+    - f_aira_
+    - m_aira
+    - Virtual Camera (1)
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - m_aira (1)
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - Virtual Camera
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - f_aira_ (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 34
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 2560
+      y: 830
+      width: 200
+      height: 186
+    ID: 23
+    outPlayerIndex: -1
+    outActionIndex: 15
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: questmanager
+    methodName: RemoveBackQuest
+    nameIndex: 15
+    methodIndex: 5
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - CheckQuestProgress
+    - LoadQuests
+    - SaveQuests
+    - RemoveBurgers
+    - RemoveBackQuest
+    - CompleteInteractQuest
+    - HandReward
+    - GetQuestById
+    - OpenQuestMenu
+    - CloseQuestMenu
+    - CreateQuestDisplay
+    - AddSaveInstance
+    - GiveQuest
+    nameOpts:
+    - '[No object]'
+    - secondary
+    - secondary
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - questmanager
+    - inventorymanager
+    - cm
+    - PlayerFollowCamera
+    - secondary
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - changemap
+    - f_aira_
+    - m_aira
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - m_aira (1)
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - f_aira_ (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 1260
+      y: 550
+      width: 200
+      height: 166
+    ID: 18
+    outPlayerIndex: -1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: questmanager
+    methodName: RemoveBackQuest
+    nameIndex: 15
+    methodIndex: 5
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - CheckQuestProgress
+    - LoadQuests
+    - SaveQuests
+    - RemoveBurgers
+    - RemoveBackQuest
+    - CompleteInteractQuest
+    - HandReward
+    - GetQuestById
+    - OpenQuestMenu
+    - CloseQuestMenu
+    - CreateQuestDisplay
+    - AddSaveInstance
+    - GiveQuest
+    nameOpts:
+    - '[No object]'
+    - secondary
+    - secondary
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - questmanager
+    - inventorymanager
+    - cm
+    - PlayerFollowCamera
+    - secondary
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - changemap
+    - f_aira_
+    - m_aira
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - m_aira (1)
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - f_aira_ (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 1670
+      y: 650
+      width: 200
+      height: 166
+    ID: 19
+    outPlayerIndex: -1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: questmanager
+    methodName: RemoveBackQuest
+    nameIndex: 15
+    methodIndex: 5
+    paramIndex: 0
+    opts:
+    - '[No method]'
+    - CheckQuestProgress
+    - LoadQuests
+    - SaveQuests
+    - RemoveBurgers
+    - RemoveBackQuest
+    - CompleteInteractQuest
+    - HandReward
+    - GetQuestById
+    - OpenQuestMenu
+    - CloseQuestMenu
+    - CreateQuestDisplay
+    - AddSaveInstance
+    - GiveQuest
+    nameOpts:
+    - '[No object]'
+    - secondary
+    - secondary
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - questmanager
+    - inventorymanager
+    - cm
+    - PlayerFollowCamera
+    - secondary
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - changemap
+    - f_aira_
+    - m_aira
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - m_aira (1)
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - f_aira_ (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 2100
+      y: 660
+      width: 200
+      height: 166
+    ID: 20
+    outPlayerIndex: -1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: questmanager
+    methodName: GiveQuest
+    nameIndex: 16
+    methodIndex: 13
+    paramIndex: 3
+    opts:
+    - '[No method]'
+    - CheckQuestProgress
+    - LoadQuests
+    - SaveQuests
+    - RemoveBurgers
+    - RemoveBackQuest
+    - CompleteInteractQuest
+    - HandReward
+    - GetQuestById
+    - OpenQuestMenu
+    - CloseQuestMenu
+    - CreateQuestDisplay
+    - AddSaveInstance
+    - GiveQuest
+    nameOpts:
+    - '[No object]'
+    - J_Bip_R_UpperLeg
+    - J_Bip_L_UpperLeg
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - cm
+    - PlayerFollowCamera
+    - questmanager
+    - inventorymanager
+    - secondary
+    - J_Bip_R_Hand
+    - J_Bip_R_LowerArm
+    - J_Bip_R_UpperArm
+    - J_Bip_L_Hand
+    - J_Bip_L_LowerArm
+    - J_Bip_L_UpperArm
+    - J_Bip_C_Head
+    - J_Bip_C_Neck
+    - J_Bip_C_UpperChest
+    - J_Bip_C_Spine
+    - secondary
+    - secondary
+    - secondary
+    - UpdateMiduserDialogue
+    - changemap
+    - f_aira_
+    - m_aira
+    - miduser_interactrange
+    - introAI cutscene manager
+    - Alicia_interactrange
+    - m_aira (1)
+    - MainCamera
+    - TrackScene
+    - UI_Canvas_StarterAssetsInputs_TouchZones
+    - miduser cutscene manager
+    - Sinarv2.1
+    - ending cutscene manager
+    - teleporter_interactrange
+    - navigate minigame
+    - f_aira_ (1)
+    - beben_interactrange
+    - Menu_UI
+    param_bool: 0
+    param_string: 
+    param_int: 14
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 2560
+      y: 1060
+      width: 200
+      height: 186
+    ID: 24
+    outPlayerIndex: -1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  S_selNodes: []

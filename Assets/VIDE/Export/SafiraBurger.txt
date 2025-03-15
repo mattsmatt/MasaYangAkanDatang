@@ -1,0 +1,322 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: SafiraBurger
+---------------------------------
+#NODEID#
+0
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Burger Safira Burger Safira
+#COMMENT#
+Halo, apa kamu kamu mau membeli burger ?
+---------------------------------
+#NODEID#
+1
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mau
+#COMMENT#
+Tentang Robot
+---------------------------------
+#NODEID#
+2
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ini burgernya!
+#COMMENT#
+Terima kasih dan datang kembali
+---------------------------------
+#NODEID#
+3
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh robot ini? namanya Arif
+#COMMENT#
+Dia banyak membantu hal-hal seperti mencatat pesanan, menyusun stok bahan, dan membersihkan toko
+---------------------------------
+#NODEID#
+4
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Apakah orang-orang tidak takut robot atau AI akan mengambil pekerjaan manusia?
+---------------------------------
+#NODEID#
+5
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ada beberapa yang berpikir begitu, tapi bagiku Arif tidak menggantikan pekerjaanku, dia hanya membantuku
+#COMMENT#
+Dulu aku harus melakukan semuanya sendiri dan itu sangat melelahkan. Dengan adanya Arif, itu membuatku bisa fokus melayani pelanggan lebih baik
+---------------------------------
+#NODEID#
+6
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Jadi Arif hanya Asisten?
+---------------------------------
+#NODEID#
+7
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Benar sekali! 
+#COMMENT#
+Dia membantuku pada pekerjaan yang berulang dan melelahkan saya. Tapi bagian seperti memasak dan melayani itu tetap aku
+---------------------------------
+#NODEID#
+8
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ini mengingatkan gue pada...
+---------------------------------
+#NODEID#
+9
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+BETUL SEKALI SINAR
+---------------------------------
+#NODEID#
+10
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+aksdhfasd MIduser
+#COMMENT#
+Jangan muncul seperti itu
+---------------------------------
+#NODEID#
+11
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ehehe maaf mengagetkanmu, jadi benar, robot seperti Arif dan aku dirancang untuk mempermudah pekerjaan manusia
+#COMMENT#
+Bukan menggantiikan kreativitas dan interaksi manusia
+---------------------------------
+#NODEID#
+12
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Tapi pencuci piring...
+---------------------------------
+#NODEID#
+13
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Pertanyaan yang bagus Sinar. Pekerjaan seperti mencuci piring adalah tugas berulang yang tidak memerlukan kreativitas dan interaksi
+#COMMENT#
+Dengan memberi tugas itu kepada robot, orang dapat memiliki lebih banyak waktu untuk fokus ke hal lain
+#COMMENT#
+Ini akan membuat orang menjadi lebih maju lagi
+---------------------------------
+#NODEID#
+14
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jadi AI dan robot malah membebaskan kita dari tugas yang melelahkan? 
+#COMMENT#
+Andai ada Robot yang mau menyelesaikan Tugas sekolahku yang banyak
+---------------------------------
+#NODEID#
+16
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Gue cuma bercanda!
+#COMMENT#
+mengerjakan tugas kan perlu kreativitas. Selain itu, dengan mengerjakan tugas sendiri dapat menambah ilmuku juga
+---------------------------------
+#NODEID#
+17
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tetapi penting juga untuk memastikan teknologi seperti ini didampingi dengan peluang baru
+#COMMENT#
+Seperti pekerjaan dalam mengelola atau memperbaiki mesin itu
+#COMMENT#
+Kuncinya adalah keseimbangan. Ai dan robot adalah alat, dan manusia tetap yang memegang kendali
+---------------------------------
+#NODEID#
+18
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Berterima kasih ke Safira
+---------------------------------
+#NODEID#
+19
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Senang melihatmu menghargai kerja Arif!
+#COMMENT#
+Terima kasih kembali telah mampir
+---------------------------------
+#NODEID#
+20
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Terima kasihku mana?
+---------------------------------
+#NODEID#
+21
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Iya terima kasih miduser
+#COMMENT#
+...
+---------------------------------
+#NODEID#
+22
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ehehe.. Senang bisa membantu
+#COMMENT#
+( ,,, U w U ,,, )
+---------------------------------
+#NODEID#
+25
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Burger Safira Burger Safira
+#COMMENT#
+Selamat datang kembali, kamu mau beli burger?
+---------------------------------
+#NODEID#
+26
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mau
+#COMMENT#
+Tidak
+---------------------------------
+#NODEID#
+27
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ini dia Burger Safiranya
+#COMMENT#
+Terima kasih dan datang kembali
+---------------------------------
+#NODEID#
+28
+#TAG#
+Safira
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah terima kasih sudah mampir
+---------------------------------
+#NODEID#
+15
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+...
+#COMMENT#
+Sinar pemalas ( o ___ o )
+---------------------------------
+#END#

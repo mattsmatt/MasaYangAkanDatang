@@ -1,0 +1,120 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: Miduser
+---------------------------------
+#NODEID#
+0
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+mari kita mulai simulasi combatnya
+#COMMENT#
+Kamu harus mengalahkan lawan dengan melakukan attack, skill ataupun potion
+---------------------------------
+#NODEID#
+4
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Pertempuran yang bagus!
+---------------------------------
+#NODEID#
+5
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jika kamu sudah mendapatkan komponen mesin waktu lainnya silahkan mampir lagi
+#COMMENT#
+Aku akan menyiapkan lebih banyak level baru
+#COMMENT#
+Silahkan berbicara dengan Alicia di ruang tamu untuk detail lokasi komponennya
+---------------------------------
+#NODEID#
+7
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Beep halo
+#COMMENT#
+Mari kita perbaiki mesin waktu itu bersama
+---------------------------------
+#NODEID#
+11
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Selamat datang Sinar ( o w o )
+#COMMENT#
+Kita telah menyelesaikan 33% progress menggabungkan komponen ini
+#COMMENT#
+Mari kita perbaiki mesin waktu ini bersama
+---------------------------------
+#NODEID#
+13
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hai Sinar ( n w n )
+#COMMENT#
+Kita telah menyelesaikan 66% progress menggabungkan komponen ini
+#COMMENT#
+Mari kita perbaiki mesin waktu ini bersama
+---------------------------------
+#NODEID#
+15
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Kabar bagus Sinar ( > u < )
+#COMMENT#
+Software mesin waktunya sudah berhasil diperbaikin
+#COMMENT#
+Silahkan mencari Pak Beben di ruangannya
+---------------------------------
+#NODEID#
+16
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Kamu sudah menyelesaikan level integrasi ini
+---------------------------------
+#NODEID#
+17
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Silahkan cari komponen lainnya untuk membuka level baru
+---------------------------------
+#END#

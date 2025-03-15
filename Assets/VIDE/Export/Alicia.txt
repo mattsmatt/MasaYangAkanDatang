@@ -1,0 +1,344 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: Alicia
+---------------------------------
+#NODEID#
+0
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Halo, kenalin aku Alicia, Asisten Pak Beben
+#COMMENT#
+Aku akan menggantikan dia sementara karena Pak Beben  emang selalu fokus pada hal baru
+#COMMENT#
+Oh ya, nama kamu siapa?
+---------------------------------
+#NODEID#
+1
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Sinar
+#COMMENT#
+...
+---------------------------------
+#NODEID#
+2
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Sinar...mmm nama yang bagus
+---------------------------------
+#NODEID#
+3
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh kalau kamu masih takut tidak apa apa
+#COMMENT#
+Kamu bisa memberitahu namamu ketika kamu udah merasa nyaman disini
+---------------------------------
+#NODEID#
+4
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mungkin kamu punya banyak pertanyaan, aku akan berusaha menjawabnya dengan lengkap
+---------------------------------
+#NODEID#
+5
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Gue dimana?
+#COMMENT#
+Kenapa gue bisa disini?
+#COMMENT#
+Cukup Jelas
+---------------------------------
+#NODEID#
+6
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Selamat datang di Laboratorium AIRA tahun 2148
+#COMMENT#
+funfact, Laboratorium ini adalah salah satu pusat penelitian AI tertua di dunia
+---------------------------------
+#NODEID#
+7
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Saat ini kami masih menginvestigasi kenapa kamu bisa terdampar disini dengan mesin itu
+#COMMENT#
+Aku akan memberitahumu penyebabnya jika sudah ketemu
+---------------------------------
+#NODEID#
+8
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah jika kamu ada pertanyaan, jangan sungkan untuk langsung bertanya
+---------------------------------
+#NODEID#
+9
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+AI itu robot?
+---------------------------------
+#NODEID#
+10
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hmmm kurang tepat, AI atau kecerdasan buatan itu seperti asisten pintar yang hanya tahu apa yang kita ajarkan
+#COMMENT#
+mmm... misalnya kamu tahu Vending Machine kan?
+---------------------------------
+#NODEID#
+11
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Tau
+#COMMENT#
+Vending Machine (?)
+---------------------------------
+#NODEID#
+13
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mhmm... mesin yang jualan minuman itu
+---------------------------------
+#NODEID#
+14
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jadi vending machine itu adalah mesin berbentuk seperti kulkas kaca yang digunakan untuk menjual barang secara otomatis
+---------------------------------
+#NODEID#
+15
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Nah, vending machine itu bekerja sesuai dengan program sederhana
+#COMMENT#
+Kamu masukkan uang, tekan tombol untuk pilih minumanmu kemudian minuman pilihanmu pun akan keluar
+#COMMENT#
+Itu bukan AI, hanya program biasa dengan aturan yang tetap
+---------------------------------
+#NODEID#
+16
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+lalu AI gimana?
+---------------------------------
+#NODEID#
+17
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+AI itu seperti vending machine yang bisa belajar. Misalnya ketika hari lagi panas, banyak orang yang membeli cola dingin
+#COMMENT#
+Maka AI bisa belajar dan akan mulai merekomendasikan cola dingin lebih sering di hari panas berikutnya
+#COMMENT#
+Jadi AI belajar dari kebiasaan dan data, bukan cuma mengikuti aturan dan program yang tetap
+---------------------------------
+#NODEID#
+18
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oohh, saya paham
+---------------------------------
+#NODEID#
+19
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah, Ayo kita kelilingi laboratorium ini, aku mau menunjukkan robot buatanku
+#COMMENT#
+kita ketemuan di ruanganku yaa, dari sini belok ke kanan
+---------------------------------
+#NODEID#
+22
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Selamat, kamu udah berhasil menjalankan simulasi game mengintegrasi mesin waktu itu
+#COMMENT#
+Bagaimana? Apakah gamenya seru?
+---------------------------------
+#NODEID#
+23
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Seru!
+#COMMENT#
+Bosenin
+---------------------------------
+#NODEID#
+24
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hehe, senang mendengarnya. Aku mengembangkan program itu dengan sepenuh hati
+#COMMENT#
+Berharap suatu hari proses coding dapat menjadi menyenangkan
+---------------------------------
+#NODEID#
+25
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mohon maaf, aku masih kurang berpengalaman dalam mengembangkan inovasi baru, dibandingkan dengan Pak Beben
+#COMMENT#
+Aku akan mencoba lebih baik di kesempatan berikutnya
+#COMMENT#
+Terima kasih atas masukannya
+---------------------------------
+#NODEID#
+26
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Tentang Komponen
+---------------------------------
+#NODEID#
+27
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh iya, karena mesin waktu ini jarang sekali ditemukan, kita tidak memiliki stok komponen yang dibutuhkan untuk menghidupkan mesin ini lagi
+#COMMENT#
+Apakah kamu mau membantu mencarinya di Kota Gaguna?
+#COMMENT#
+Ini juga kesempatan untukmu melihat dan menjelajahi kota Gaguna
+---------------------------------
+#NODEID#
+28
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Aku akan memberimu list komponennya
+#COMMENT#
+Kamu dapat bertanya kepada kenalanku Faqih yang berada di depan Bengkel Gaguna
+#COMMENT#
+Kita akan tetap berkomunikasi menggunakan Alat ini
+---------------------------------
+#NODEID#
+32
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Aku akan menunggumu disini dan membantumu melalui alat komunikasi kita
+#COMMENT#
+Semangat ya mencari komponen tersebut
+---------------------------------
+#NODEID#
+34
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Selamat Sinar, kamu telah menemukan semua komponen yang dibutuhkan
+#COMMENT#
+Dan Pak Beben juga sudah menyelesaikan hardwarenya
+#COMMENT#
+Coba kamu temui dia di ruangannya
+---------------------------------
+#END#

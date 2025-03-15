@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5628407816225945691
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 128058, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_Name
+      value: SlidingTile_3by3 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 128058, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 497922, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11430964, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: PuzzleImage
+      value: 
+      objectReference: {fileID: 2800000, guid: 0139eaa6a04d65d4d93574c04a15846b, type: 3}
+    - target: {fileID: 11430964, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      propertyPath: levelDataList.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 11430964, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 128058, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4511152176831454557}
+  m_SourcePrefab: {fileID: 100100000, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+--- !u!1 &5628407816225819745 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 128058, guid: 5b51f59f0b8cdd042962801681af3c3a, type: 3}
+  m_PrefabInstance: {fileID: 5628407816225945691}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4511152176831454557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5628407816225819745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7345481facdf9f4082dbef6a3349240, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PuzzleImage: {fileID: 2800000, guid: 2d1d347e1911389489395167afca8ea3, type: 3}
+  Height: 3
+  Width: 3
+  PuzzleScale: {x: 1, y: 1, z: 1}
+  PuzzlePosition: {x: 0, y: 0, z: 0}
+  SeperationBetweenTiles: 0.5
+  Tile: {fileID: 164140, guid: b2998fb091305694ea5656c50beebce0, type: 3}
+  Complete: 0

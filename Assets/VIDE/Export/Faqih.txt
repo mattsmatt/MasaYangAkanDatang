@@ -1,0 +1,334 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: Faqih
+---------------------------------
+#NODEID#
+0
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ada yang bisa saya bantu?
+---------------------------------
+#NODEID#
+1
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Beritahu Tentang Alicia
+---------------------------------
+#NODEID#
+2
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh kamu disuruh Alicia kesini
+#COMMENT#
+Mari saya lihat... hmmm...
+#COMMENT#
+Di tokoku kebetulan ada sirkuit yang kamu cari. Sirkuit ini saya dapatkan dari Distrik Gapapa
+#COMMENT#
+Aku bisa memberimu sirkuit ini, tapi ada syaratnya
+---------------------------------
+#NODEID#
+3
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Syarat?
+---------------------------------
+#NODEID#
+4
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Aku juga mendapatkan mesin bekas dari distrik itu, tapi...
+---------------------------------
+#NODEID#
+5
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Mesin ini terkunci oleh enkripsi
+#COMMENT#
+Kalau kamu bisa menyelesaikan enkripsi itu, aku akan berikan sirkuit itu dan informasi tentang komponen lainnya
+---------------------------------
+#NODEID#
+7
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Terima
+#COMMENT#
+Tolak
+---------------------------------
+#NODEID#
+8
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Bagus, aku akan menunggu disini
+---------------------------------
+#NODEID#
+9
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah jika kamu mengganti pikirkanmu, silahkan datang lagi kapan pun
+---------------------------------
+#NODEID#
+11
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+(hmm bagaimana cara menyelesaikannya ya)
+---------------------------------
+#NODEID#
+12
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Tanya Alicia
+---------------------------------
+#NODEID#
+13
+#TAG#
+Alicia
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh, enkripsi itu? seharusnya Miduser bisa membantumu menyelesaikannya
+#COMMENT#
+Kamu mendengarkan percakapan ini kan Miduser
+---------------------------------
+#NODEID#
+14
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Beep, enkripsi itu menggunakan algoritma yang bisa aku pecahkan
+#COMMENT#
+Aku akan membuat visualisasinya menggunakan VT
+#COMMENT#
+Memulai visualisasi...
+---------------------------------
+#NODEID#
+16
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Kembalikan mesinnya
+---------------------------------
+#NODEID#
+17
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hebat! kamu benar-benar menyelesaikannya, padahal ketika saya mencobanya enkripsi ini sangat susah untuk dipecahkan
+---------------------------------
+#NODEID#
+18
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Beritahu tentang Miduser
+---------------------------------
+#NODEID#
+19
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh jadi ini semua berkat Robot buatan Alicia ya
+#COMMENT#
+Pantes saja enkripsi ini dapat dipecahkan dengan cepat
+---------------------------------
+#NODEID#
+20
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hehe kamu boleh kok memujiku lebih banyak Sinar
+---------------------------------
+#NODEID#
+21
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Terima kasih lagi Miduser
+#COMMENT#
+...
+---------------------------------
+#NODEID#
+22
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Aww >///<
+---------------------------------
+#NODEID#
+23
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Eeeh aku malah dikacangi ( u - u )
+---------------------------------
+#NODEID#
+24
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Omong-omong Puzzle ini seperti cara AI merancang rute pengiriman lhoo
+#COMMENT#
+AI itu sering banget digunakan untuk optimasi rute. Misalnya saat kurir mengirim paket ke banyak lokasi
+#COMMENT#
+AI dapat digunakan untuk menganalisa semua kemungkinan rute untuk mencari jalur tercepat dan efisien, tanpa mengulang jalur yang sama
+---------------------------------
+#NODEID#
+25
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah, sesuai dengan perjanjian, ini sirkuit biru yang aku punya untukmu
+#COMMENT#
+Dan untuk komponen kedua, kamu bisa bertanya kepada penjual hamburger Budiman 
+#COMMENT#
+Selain menjual hamburger, dia juga membuka Toko Barang Bekas dan seharusnya dia memiliki satelit yang kamu cari
+#COMMENT#
+Biasanya dia berjualan di rumah biru di seberang pom bensin
+---------------------------------
+#NODEID#
+26
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Terima kasih banyak
+---------------------------------
+#NODEID#
+27
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Sama-sama, jika kamu ingin membantuku memecahkan enkripsi lagi jangan ragu untuk datang
+#COMMENT#
+Semoga beruntung!
+---------------------------------
+#NODEID#
+29
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Halo apakah kamu mau membantuku memecahkan enkripsi ini?
+---------------------------------
+#NODEID#
+30
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ya
+#COMMENT#
+Tidak
+---------------------------------
+#NODEID#
+31
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah ini mesinnya dan terima kasih banyak
+---------------------------------
+#NODEID#
+32
+#TAG#
+Faqih
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah, hati-hati dalam perjalananmu dan semoga beruntung
+---------------------------------
+#END#

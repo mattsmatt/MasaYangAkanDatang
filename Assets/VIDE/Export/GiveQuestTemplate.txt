@@ -1,0 +1,296 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: GiveQuestTemplate
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Kenapa?
+#COMMENT#
+Ada Apa?
+---------------------------------
+#NODEID#
+1
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Iya nih, aku dapat informasi kalau pipa air desa lagi bermasalah. 
+#COMMENT#
+Warga komplain karena air tidak mengalir ke rumah mereka
+---------------------------------
+#NODEID#
+3
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tukang pipa satu satunya yang kita punya sedang sakit, jadi tadi cuman dicek sama warga
+#COMMENT#
+Waktu dicek beberapa warga, mereka tidak ketemu masalahnya dimana
+---------------------------------
+#NODEID#
+5
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+(mengangguk)
+---------------------------------
+#NODEID#
+6
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tapi... jika warga melihat miduser, nanti mungkin mereka akan...
+---------------------------------
+#NODEID#
+8
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+baiklah, aku masih ada urusan administrasi sebentar, kamu pergi duluan saja ke rumah Paman Usman di pinggir desa
+#COMMENT#
+Nanti aku menyusul
+---------------------------------
+#NODEID#
+11
+#TAG#
+Usman
+#ISPLAYER#
+False
+---
+#COMMENT#
+hmm? ini baru kali pertama saya melihat mukamu, kamu siapa? ada perlu apa kesini?
+---------------------------------
+#NODEID#
+13
+#TAG#
+Usman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ah iya, benar. Airnya sudah tidak mengalir satu hari. Warga disini jadi kesulitan
+#COMMENT#
+Jika kamu bisa membantu memperbaiki tolong sekali
+---------------------------------
+#NODEID#
+15
+#TAG#
+Usman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Lokasi pipanya gak jauh kok, cuma di belakang rumah itu
+#COMMENT#
+Hati hati ya pipanya sangat besar dan kompleks
+---------------------------------
+#NODEID#
+2
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Pipa airnya belum dicek sama tukang pipa?
+---------------------------------
+#NODEID#
+4
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Kalau gue bantu cek gimana? dengan bantuan miduser, mungkin bisa memudahkan pengecekannya
+#COMMENT#
+Kamu mau membantu kan?
+---------------------------------
+#NODEID#
+7
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tenang aja, miduser punya kemampuan kamuflase kok, jadi dia bisa menghindari pandangan warga
+#COMMENT#
+Jika lu masih ragu, bagaimana kalau lu ikut juga untuk mengalihkan perhatian warga saat kami mengecek
+---------------------------------
+#NODEID#
+9
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+baik, kami berangkat dulu
+---------------------------------
+#NODEID#
+12
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Halo pak, Gue disuruh Siti untuk kesini. Katanya pipa air di sini lagi bermasalah
+---------------------------------
+#NODEID#
+14
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Gue coba cek dulu ya, lokasi pipanya dimana ya pak?
+---------------------------------
+#NODEID#
+16
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Gue ke sana sekarang. Kalau ada apa-apa nanti gue kabarin
+---------------------------------
+#NODEID#
+18
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Pak, masalah pipanya sudah selesai. Airnya udah ngalir lagi sekarang
+#COMMENT#
+Ternyata setelah dicek ada beberapa sumber keran yang tertutup
+#COMMENT#
+Semuanya sudah saya buka kembali
+---------------------------------
+#NODEID#
+19
+#TAG#
+Usman
+#ISPLAYER#
+False
+---
+#COMMENT#
+kamu serius sudah selesai? cepat banget kamu kerjainnya!
+---------------------------------
+#NODEID#
+20
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+hehe iya pak, ini semua berkat mid... maksudku algortima Dijkstra yang memudahkan gue untuk mencari sumber jalan airnya
+---------------------------------
+#NODEID#
+21
+#TAG#
+Usman
+#ISPLAYER#
+False
+---
+#COMMENT#
+Terima kasih banyak ya, nanti saya kasih tau warga lain kamu udah membantu banget!
+---------------------------------
+#NODEID#
+22
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+sama-sama pak
+---------------------------------
+#NODEID#
+24
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Siti, pipanya sudah selesai gue perbaikin, ternyata ada beberapa keran yang tertutup saja
+---------------------------------
+#NODEID#
+25
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Syukurlah, aku kira ada kotoran yang nyangkut dan perlu dibongkar ulang agar air dapat mengalir kembali
+#COMMENT#
+Tapi kamu hebat juga ya punya pengetahuan mengenai pipa dan air
+---------------------------------
+#NODEID#
+26
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tidak juga, ini semua berkat miduser yang dapat mencari arah aliran pipa yang optimal
+---------------------------------
+#NODEID#
+27
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Wah, kamu bangat sangat rendah hati...
+#COMMENT#
+Aku juga dapat laporan dari para warga bahwa mereka berterima kasih banyak kepadamu
+#COMMENT#
+Ini ada sedikit hadiah buat kamu, Terima kasih sudah membantuku
+---------------------------------
+#NODEID#
+28
+#TAG#
+x
+#ISPLAYER#
+False
+---
+#COMMENT#
+Wahh terima kasih, senang bisa membantu
+---------------------------------
+#END#

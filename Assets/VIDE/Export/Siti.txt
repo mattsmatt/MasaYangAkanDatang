@@ -1,0 +1,322 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: Siti
+---------------------------------
+#NODEID#
+0
+#TAG#
+???
+#ISPLAYER#
+False
+---
+#COMMENT#
+( terlihat kebingungan )
+---------------------------------
+#NODEID#
+1
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Menanyakan kabar
+#COMMENT#
+Diam
+---------------------------------
+#NODEID#
+2
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh halo, Saya Siti, seorang penyelidik
+#COMMENT#
+Saya baru saja mendapatkan beberapa dokumen dan petunjuk dari kantor polisi
+#COMMENT#
+Tetapi saya kesulitan untuk menghubungkan beberapa petunjuk ini
+---------------------------------
+#NODEID#
+3
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Memanggil Miduser
+#COMMENT#
+Diam Saja
+---------------------------------
+#NODEID#
+4
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hai Sinar, aku sudah lama menunggu panggilanmu ( O w O )
+---------------------------------
+#NODEID#
+5
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Eeeh Sinar sudah sombong nih, tidak mau manggil aku \( > , < )/
+---------------------------------
+#NODEID#
+6
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Omong - omong, jika mempunyai cukup data saya bisa membantu untuk menyimulasikan kemungkinan yang ada dan menyelesaikan kasus ini
+#COMMENT#
+Jadi kamu bisa membantu dia kok
+---------------------------------
+#NODEID#
+7
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Tawarkan Bantuan
+---------------------------------
+#NODEID#
+8
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Terima kasih, tapi kasus ini cukup rumit. Ada beberapa lokasi yang harus dihubungkan untuk memahami kejadinnya.
+---------------------------------
+#NODEID#
+9
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Beritahu tentang Miduser
+#COMMENT#
+Tenang saya Jenius
+---------------------------------
+#NODEID#
+10
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh begitu, kalo begitu mari kita coba
+---------------------------------
+#NODEID#
+11
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+...
+#COMMENT#
+Sinar sudah mulai sombong  ( = o = )
+---------------------------------
+#NODEID#
+12
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Baiklah aku akan mengubah berkas ini menjadi puzzle sehingga bisa dengan mudah diselesaikan
+#COMMENT#
+Memulai visualisasi...
+---------------------------------
+#NODEID#
+15
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Waah terima kasih banyak telah membantuku menyelesaikan kasus ini
+#COMMENT#
+aku tidak menyangka alur kejadiannya bisa seperti ini...
+---------------------------------
+#NODEID#
+16
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ini karena Miduser
+#COMMENT#
+Saya kan jenius
+---------------------------------
+#NODEID#
+17
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ehehehe kalau mau puji lagi boleh kok (,,,> . <,,,)
+---------------------------------
+#NODEID#
+18
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+ahaha.. iya...
+---------------------------------
+#NODEID#
+19
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+( O - O ) ...
+---------------------------------
+#NODEID#
+20
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+"Ini mirip dengan cara AI bekerja"
+#COMMENT#
+Pasti itu yang mau lu katakan kan Miduser :3
+---------------------------------
+#NODEID#
+21
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Wah Sinar sudah pintar \( 0 v 0 )/
+#COMMENT#
+Benar, ini mirip sekali dengan bagian dari AI, yaitu neural network
+#COMMENT#
+Neural network ini meniru cara otak manusia bekerja. Neural network ini menghubungkan data untuk menemukan pola dan menyelesaikan masalah
+#COMMENT#
+Dalam kasus ini, Ai bisa menganalisa lokasi, waktu, dan bukti untuk menemukan pola logis yang menghubungkan semuanya
+#COMMENT#
+Inilah yang membuat kita dapat melihat gambaran besar lebih cepat
+---------------------------------
+#NODEID#
+22
+#TAG#
+Sinar
+#ISPLAYER#
+False
+---
+#COMMENT#
+Jadi AI menyelesaikan sesuatu dengan menghubungkan potongan-potongan kecil?
+---------------------------------
+#NODEID#
+23
+#TAG#
+Miduser
+#ISPLAYER#
+False
+---
+#COMMENT#
+Tepat sekali! ini adalah salah satu cara AI belajar, yang dikenal dengan istilah Machine Leaning
+#COMMENT#
+AI menggunakan data untuk mempelajari pola dan membuat keputusan lebih baik di masa depan
+---------------------------------
+#NODEID#
+24
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Oh begitu...
+#COMMENT#
+Baiklah, jika kamu ingin menyelesaikan lebih banyak kasus, jangan sungkan untuk datang kesini ya
+#COMMENT#
+Sekali lagi terima kasih atas bantuan kalian
+---------------------------------
+#NODEID#
+26
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Selamat datang kembali Sinar
+#COMMENT#
+Apakah kamu mau membantuku untuk memecahkan kasus lagi
+---------------------------------
+#NODEID#
+27
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Mau
+#COMMENT#
+Tidak mau
+---------------------------------
+#NODEID#
+28
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Yay... Ini detailnya, Silahkan kamu baca dan cari benang merahnya
+---------------------------------
+#NODEID#
+29
+#TAG#
+Siti
+#ISPLAYER#
+False
+---
+#COMMENT#
+Yah... padahal kasus ini seru banget loh
+#COMMENT#
+Baiklah, Silahkan mampir kembali jika kamu berubah pikiran
+---------------------------------
+#END#
