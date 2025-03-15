@@ -1,4 +1,4 @@
-## MasaYangAkanDatang
+## Masa Yang Akan Datang
 
 Jelajahlah menuju masa depan distopia yang telah dipenuhi AI. Pelajari tentang AI dalam game ini yang menggabungkan eksplorasi, RPG, dan puzzle
 
