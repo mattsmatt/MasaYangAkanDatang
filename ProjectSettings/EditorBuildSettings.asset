@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 64833a89e82988b41bd51d7e04c8f4aa
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+    guid: e9017d5f96b9f09489b4b37e1d6eb914
+  - enabled: 1
+    path: Assets/Scenes/Combat/Combat.unity
+    guid: 41aaa5ac81a3fc547a1744c485d2ec0a
+  - enabled: 1
+    path: Assets/Minigames/Fill/Scenes/Fill - Level Manager.unity
+    guid: c5dd73426d1c6bf4a82552afad2fa545
+  - enabled: 1
+    path: Assets/Minigames/Fill/Scenes/Fill - Level 1.unity
+    guid: d1dfa29f668a551408ad2d917a11f649
+  - enabled: 1
+    path: Assets/Minigames/Fill/Scenes/Fill - Level 2.unity
+    guid: 65599f2bd3bdca64fa180cbb5c620585
+  - enabled: 1
+    path: Assets/Minigames/Fill/Scenes/Fill - Level 3.unity
+    guid: 8a3a51ce424e5e4479cd0446818da8c3
+  - enabled: 1
+    path: Assets/Minigames/Fill/Scenes/Fill - Level 4.unity
+    guid: 5d6b73306492d384d9eee86e4267b48d
+  - enabled: 1
+    path: Assets/Minigames/Fill/Scenes/Fill - Level 5.unity
+    guid: 909b342ba9de5224f94555069fb85000
+  - enabled: 1
+    path: Assets/Minigames/Onestroke/Scenes/Onestroke - Level Manager.unity
+    guid: 2c47b8b761f49ba4da0df163a0328104
+  - enabled: 1
+    path: Assets/Minigames/Onestroke/Scenes/Onestroke - Level 1.unity
+    guid: ebcedf2a8e4ae78408a1e3888a883e7b
+  - enabled: 1
+    path: Assets/Minigames/Onestroke/Scenes/Onestroke - Level 2.unity
+    guid: 2df4c24a2042f724aab62ce717b4f8ec
+  - enabled: 1
+    path: Assets/Minigames/Onestroke/Scenes/Onestroke - Level 3.unity
+    guid: d6cb4385b9e05b040a22e4881e46c452
+  - enabled: 1
+    path: Assets/Minigames/Onestroke/Scenes/Onestroke - Level 4.unity
+    guid: 8e889e4ec4bd0354b982740b0909d0f0
+  - enabled: 1
+    path: Assets/Minigames/Onestroke/Scenes/Onestroke - Level 5.unity
+    guid: 35b399b7878d6094d98de61209c0243e
+  - enabled: 1
+    path: Assets/Minigames/Pipes/Scenes/Pipes - Level Manager.unity
+    guid: c78f22869486e6e428db9e828ae4d9d9
+  - enabled: 1
+    path: Assets/Minigames/Pipes/Scenes/Pipes - Level 1.unity
+    guid: 114ceac808926404b8a3b1ef455f4591
+  - enabled: 1
+    path: Assets/Minigames/Pipes/Scenes/Pipes - Level 2.unity
+    guid: d9b99f4bd71a19440befa36131e9a22a
+  - enabled: 1
+    path: Assets/Minigames/Pipes/Scenes/Pipes - Level 3.unity
+    guid: 69a7cf9996297a84abad5cade5187b03
+  - enabled: 1
+    path: Assets/Minigames/Pipes/Scenes/Pipes - Level 4.unity
+    guid: 5994e5e3c20439c4192b8a0cd8847989
+  - enabled: 1
+    path: Assets/Minigames/Pipes/Scenes/Pipes - Level 5.unity
+    guid: ba449e2e67ec1ef4f9dfea90a7202598
+  - enabled: 1
+    path: Assets/Scenes/Combat/World 1 - Level Manager.unity
+    guid: 10014a3b08681794cb535580b9593f6b
+  - enabled: 1
+    path: Assets/Scenes/Combat/World 2 - Level Manager.unity
+    guid: f8415825f1771474888b80d8438ae93d
+  - enabled: 1
+    path: Assets/Scenes/Combat/World 3 - Level Manager.unity
+    guid: 801fcf76cf5d1ba45b1d516c5719c476
+  - enabled: 1
+    path: Assets/Scenes/testing.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/SlidingTilePuzzle.unity
+    guid: c78156a8d0505db48bc2d754df2cd940
+  - enabled: 1
+    path: Assets/Scenes/Cutscene awal.unity
+    guid: 6091e3a93c2d13848a84e7fe05ef5413
+  - enabled: 1
+    path: Assets/Scenes/DemoMenu/TestMenu.unity
+    guid: 48b30008a03fec4489fb8979c6d82db7
+  - enabled: 1
+    path: Assets/Scenes/Maps/aira.unity
+    guid: 45c4276ab8bdf984b89a0b37e8bc2a44
+  - enabled: 1
+    path: Assets/Scenes/Maps/city.unity
+    guid: 249df8a6a4f59a243833c125bd709eac
+  - enabled: 1
+    path: Assets/Scenes/OnePuzzle.unity
+    guid: b49bc2790836b1944a159a7782d3e7e7
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
